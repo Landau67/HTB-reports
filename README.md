@@ -2,7 +2,7 @@
 
 ![Banner](https://img.shields.io/badge/Hack%20The%20Box-Writeups-9fef00?style=for-the-badge&logo=hack-the-box&logoColor=black)
 
-[![HTB Profile](https://app.hackthebox.com/users/2926420)
+[![HTB Profile](https://img.shields.io/badge/HTB-Profile-202225?style=flat&logo=hack-the-box&logoColor=9fef00)](https://app.hackthebox.com/users/2926420)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 ## 📖 Introduction
@@ -31,8 +31,6 @@ A log of the machines I have recently compromised.
 | Machine | OS | Difficulty | Tags | Write-up |
 | :--- | :---: | :---: | :---: | :---: |
 | **Armageddon** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Drupalgeddon2` `Snapd` `Dirty Sock` | [Read ➜](./Machines/Easy/README.md) |
-| **Pending** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Active Directory` `Kerberoasting` | [Read ➜](./Machines/Medium/README.md) |
-| **Pending** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `Buffer Overflow` `Custom Exploit` | [Read ➜](./Machines/Hard/README.md) |
 
 <br>
 
