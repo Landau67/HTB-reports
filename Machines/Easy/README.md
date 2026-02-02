@@ -15,7 +15,10 @@
 
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
-| **Armageddon** | 🐧 | `Drupalgeddon2` `Snapd` `Dirty Sock` | [📄 View PDF](./Armageddon-HTB.pdf) |
+| **Armageddon** | 🐧 | [📄 View PDF](./Armageddon-HTB.pdf) |
+| **CodePartTwo** | 🐧 | [📄 View PDF](./CodePartTwo-HTB.pdf) |
+| **Facts** | 🐧 | [📄 View PDF](./Facts-HTB.pdf) |
+| **2Million-HTB** | 🐧 | [📄 View PDF](./2Million-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
