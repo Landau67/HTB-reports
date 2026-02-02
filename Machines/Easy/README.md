@@ -14,7 +14,7 @@
 ## 🗂️ Write-ups Index
 
 | Machine Name | OS | Link |
-| :--- | :---: | :--- | :---: |
+| :--- | :---: | :---: |
 | **Armageddon** | 🐧 | [📄 View PDF](./Armageddon-HTB.pdf) |
 | **CodePartTwo** | 🐧 | [📄 View PDF](./CodePartTwo-HTB.pdf) |
 | **Facts** | 🐧 | [📄 View PDF](./Facts-HTB.pdf) |
