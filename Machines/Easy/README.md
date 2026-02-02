@@ -13,7 +13,7 @@
 
 ## 🗂️ Write-ups Index
 
-| Machine Name | OS | Key Techniques | Link |
+| Machine Name | OS | Link |
 | :--- | :---: | :--- | :---: |
 | **Armageddon** | 🐧 | [📄 View PDF](./Armageddon-HTB.pdf) |
 | **CodePartTwo** | 🐧 | [📄 View PDF](./CodePartTwo-HTB.pdf) |
