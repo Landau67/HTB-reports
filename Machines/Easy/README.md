@@ -1,7 +1,7 @@
 # 🟢 Easy Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2ea44f?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-1-blue?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-4-blue?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -13,9 +13,12 @@
 
 ## 🗂️ Write-ups Index
 
-| Machine Name | OS | Key Techniques | Link |
-| :--- | :---: | :--- | :---: |
-| **Armageddon** | 🐧 | `Drupalgeddon2` `Snapd` `Dirty Sock` | [📄 View PDF](./Armageddon-HTB.pdf) |
+| Machine Name | OS | Link |
+| :--- | :---: | :---: |
+| **Armageddon** | 🐧 | [📄 View PDF](./Armageddon-HTB.pdf) |
+| **CodePartTwo** | 🐧 | [📄 View PDF](./CodePartTwo-HTB.pdf) |
+| **Facts** | 🐧 | [📄 View PDF](./Facts-HTB.pdf) |
+| **2Million-HTB** | 🐧 | [📄 View PDF](./2Million-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
